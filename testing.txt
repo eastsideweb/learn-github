@@ -1,1 +1,2 @@
 checking if I need to enter credentials when I push a commit to origin
+files are out of synch, editing test before merging
