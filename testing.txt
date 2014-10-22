@@ -1,2 +1,22 @@
-checking if I need to enter credentials when I push a commit to origin
-files are out of synch, editing test before merging
+
+[Mary Ann]
+MJ1: v1  changing in master
+MJ2: v1
+MJ3: v1
+
+
+
+[Tanuja]
+TJ1: v1
+TJ2: v1
+TJ3: v1
+
+
+
+
+[Joseph]
+JJ1: v1
+JJ2: v1
+JJ3: v1
+
+>>>>>>> Stashed changes
