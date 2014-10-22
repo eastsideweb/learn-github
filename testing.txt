@@ -1,6 +1,6 @@
 
 [Mary Ann]
-MJ1: v1
+MJ1: v1 changing text in TJDevelopment in MA local branch
 MJ2: v1
 MJ3: v1
 
